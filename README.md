@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm EstefanyaNascimento</h1>
-<h3 align="center">Data science student in love with technology</h3>
+<h3 align="center">A wanna be Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **software engineering analyst - SAP**
 
