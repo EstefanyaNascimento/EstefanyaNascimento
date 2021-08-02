@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **software engineering analyst - SAP**
 
-- 🌱 I’m currently learning **Phyton, Java, HTML**
+- 🌱 I’m currently learning **Phyton, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/estefanya-alves-7b38367b/**
 
