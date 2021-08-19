@@ -1,10 +1,10 @@
-## Oiii! Sejam bem vindos ao meu GitHub!
+## Hey! Welcome to my GitHub!
 
 <hr>
 
- - Atualmente trabalho como analista de engenharia de software - SAP
- - Estudo para me tornar desenvolvedora web
- - Aprofundando o conhecimento sobre Cloud e Engenharia de dados
+ - Currently working as a software engineering analyst - SAP
+ - Study to become a web developer
+ - Deepening knowledge about Cloud and Data Engineering
 
  <hr>
 
