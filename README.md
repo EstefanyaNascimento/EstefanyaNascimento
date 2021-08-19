@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub!
+## Hi! Welcome to my GitHub!
 
 <hr>
 
