@@ -21,7 +21,7 @@
   <img align="center" alt="estefanya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="estefanya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="estefanya-MySQL" height="60" width="80" src="https://waresoft.com.br/wp-content/uploads/2021/04/MySQL_Logo_600x600.png">
-
+<img align = "center" alt = "estefanya-nodejs" height = "30" width = "40" src = "https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg">
 
 </div>
 
